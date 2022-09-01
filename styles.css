@@ -1,0 +1,61 @@
+
+body{
+    background-color: black;
+    background-image: "2245139.jpg";
+}
+
+
+.container{
+    margin:20px;
+    /* background-color: grey; */
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar{
+    background-color:purple;
+}
+.dropdown-menu{
+    background-color:rgb(167, 148, 173) ;
+}
+
+#search {
+    background-color: gray;
+    color: antiquewhite;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border-style: none;
+}
+#search::placeholder{
+    color: black;
+}
+
+#login
+{
+    height: 25px;
+    width:140px;
+    color:azure;
+    border-radius: 50px;
+    border-style: none;
+    padding: 10px;
+    margin: 10px;
+    background-color: dimgrey ;
+    /* color: aliceblue; */
+    
+}
+#login::placeholder{
+    color: black;
+}
+
+#login:hover
+{
+    background-color: darkgrey;
+}
+
+.dropdown-menu
+{
+    margin: 10px;
+    padding: 10px;
+}
+
